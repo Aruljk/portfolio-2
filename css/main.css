@@ -53,6 +53,7 @@ section{
     background: #111;
     letter-spacing: .2rem;
 }
+/* header section start */
 header{
     position: fixed;
     top: 0;
@@ -139,7 +140,7 @@ color: var(--main-color);
 }
 
 
-
+/* header ends */
 
 
 
@@ -170,6 +171,8 @@ color: var(--main-color);
         width: 100%;
     }
 }
+
+/* home section starts */
 .home{
     display: flex;
     align-items: center;
@@ -208,6 +211,8 @@ color: var(--main-color);
     color: #666;
     padding: 3rem 0;
 }
+/* home section ends */
+/* about section */
 .row-1{
     display: flex;
     flex-wrap: wrap;
@@ -254,7 +259,7 @@ color: var(--main-color);
 .box span{
     color: var(--main-color);
   }
-
+/* about section ends */
 /* skills section starts */
 
 .row-2{
