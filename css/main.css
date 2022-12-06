@@ -49,6 +49,10 @@ section{
     font-size: 1.7rem;
     
 }
+/* .btn{
+    background-color: #666;
+    color: #ccc;
+} */
 .btn:hover{
     background: #111;
     letter-spacing: .2rem;
