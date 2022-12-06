@@ -300,7 +300,7 @@ border-radius: 50rem;
     border-radius: 50rem;
 }
 .about .row-2 .skills .progress:nth-child(1) .bar span{
-    width: 85%;
+    width: 75%;
 }
 .about .row-2 .skills .progress:nth-child(2) .bar span{
     width: 75%;
@@ -312,7 +312,7 @@ border-radius: 50rem;
     width: 70%;
 }
 .about .row-2 .skills .progress:nth-child(5) .bar span{
-    width: 70%;
+    width: 60%;
 }
 /* skills section ends */
 
